@@ -25,8 +25,33 @@ Happenings around the community, orginized by both moderators and community memb
 - Custom IL Competition 1 *(08/2020 – 09/2020)*
 - Invasion Bingo Tournament *(06/2020 - 08/2020)
 - Stock Market *(04/2020 – 06/2020)*
-
-*Events prior to April 2020 are listed [here](https://www.twitch.tv/sunshinecommunity/about)*.
+- Jun 2020 -> Aug 2020 - [Lockout Bingo Invasion Tournament](https://challonge.com/1v1Invasion)
+- Apr 2020 -> Jul 2020 - [Sunshine Any% Stock Market](https://docs.google.com/spreadsheets/d/1TnPHkA65_yGJLbRlL7AfPdpGfCf9t-K4df8kqVZH0z8/edit)
+- May 4 2020 -> June 7 2020- [1v1 Lockout Bingo Tournament #3](https://challonge.com/1v1Lockout)
+- Jan 2020 -> Mar 2020 - [2v2 Lockout Bingo Tournament #3](https://challonge.com/2v2Lockout)
+- Jan 11 2020 - [Any% Relay Race #4](https://www.youtube.com/watch?v=J-hOzlrlYqk)
+- Aug 11 2019 - [GSA 120 Shines Relay Race](https://www.twitch.tv/videos/465618295)
+- Jun 2019 -> Jul 2019 - [Connect 5 1v1 Lockout Bingo Tournament](https://challonge.com/SMS1v1Lockout)
+- May 13 2019 - [MCSN 120 Shines Race](https://www.youtube.com/watch?v=4zcT94ui_Jw)
+- Feb 2019 -> March 2019 - [Row Control 1v1 Lockout Bingo Tournament](https://challonge.com/smsrowcontrol)
+- Nov 4 2018 -> Jan 22 2019 - [Task Challenges: Season 5](https://www.speedrun.com/sms/guide/b2xqe)
+- July 22 2018 -> Oct 21 2018 [2v2 Lockout Bingo Tournament #2](https://challonge.com/SMSLockout)
+- Feb 15 2018 -> Jun 1 2018 - [Speedgaming Any% Tournament](http://smsunshine.challonge.com/any2018)
+- Jul 16 2017 - [15th Anniversary 119 Shines Relay](https://www.youtube.com/watch?v=sUsyPLx-mx8)
+- Jan 16 2016 - [Japan vs. USA Any% Relay Race](https://www.youtube.com/watch?v=WmjWHTepSz8)
+- Aug 25 2015 -> Nov 1 2015 - [20 Shines Tournament](http://sms20shines.challonge.com/Round1)
+- Aug 2015 -> Oct 2015 - NicoNico Task Challenges: [Season 4](https://www.speedrun.com/sms/guide/gp8w6)
+- Jul 18 2015 - [120 Shines Relay Race #1](https://www.youtube.com/watch?v=7kYtrsL6-MU)
+- Mar 21 2015 - [79 Shines Relay Race #1](https://www.youtube.com/watch?v=n5QbFRAthXY)
+- Nov 14 2014 -> Jan 2 2015 - [2v2 Lockout Bingo Tournament #1](http://www.challonge.com/smslockoutbingo)
+- Nov 8 2014 - [Any% Relay Race #2](https://www.youtube.com/watch?v=K4sDpIXO5Lw)
+- Sep 2014 -> Dec 2014 - NicoNico Task Challenges: [Season 3](https://www.speedrun.com/sms/guide/d51ww)
+- Mar 1 2014 - [Team Bingo #2](https://www.youtube.com/watch?v=pJGY7dseEO0)
+- Feb 1 2014 - [Any% Relay Race #1](https://www.youtube.com/watch?v=U85eBdbSXKs)
+- Sep 2013 -> Dec 2013 - NicoNico Task Challenges: [Season 2](https://www.speedrun.com/sms/guide/1zc9v)
+- Sep 29 2013 - [Team Bingo #1](https://www.youtube.com/watch?v=oEUV6hL8q80)
+- Sep 14 2013 - [Any% Showcase Race](https://www.youtube.com/watch?v=McD4TrdPT74)
+- Sep 2012 -> Nov 2012 - NicoNico Task Challenges: [Season 1](https://www.speedrun.com/sms/guide/komwd)
 
 ## Bingo
 Competitions involving randomized goals on a five by five grid. For more information, check out the dedicated website [here](https://sms.bingo) and the dedicated discord [here.](https://sms.bingo/discord).
