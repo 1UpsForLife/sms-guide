@@ -1,8 +1,8 @@
----  
-layout: default  
-title: Credits  
-nav_order: 12  
----  
+---
+layout: default
+title: WR History
+nav_order: 12
+---
   
 ## Any% World Record History  
 Original list created by **[Nkitten](https://www.speedrun.com/user/Nkitten)**, converted/maintained by **[1UpsForLife](https://www.speedrun.com/user/1UpsForLife)** with help from many others.  
