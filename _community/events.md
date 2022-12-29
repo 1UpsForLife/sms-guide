@@ -6,7 +6,7 @@ nav_order: 9
 
 # Events
 
-Happenings around the community, orginized by moderators and community members. Missing anything? Feel free to add it!
+Happenings around the community, organized by moderators and community members. Missing anything? Feel free to add it!
 
 **Chronology:**  
 - [Fantasy League 3](https://docs.google.com/document/d/1lNgflvRhq5hnL70E5eTd4Tj7RUoclWPHmHsqOaOvZo8) *(Dec 2022 – Feb 2023)*
@@ -48,7 +48,7 @@ Happenings around the community, orginized by moderators and community members. 
 - [2v2 Lockout Bingo Tournament #1](http://www.challonge.com/smslockoutbingo) *(14 Nov 2014 – 02 Jan 2015)*
 - [Any% Relay 2](https://www.youtube.com/watch?v=K4sDpIXO5Lw) *(08 Nov 2014)*
 - NicoNico Task Challenges: [Season 3](https://www.speedrun.com/sms/guide/d51ww) *(Sep 2014 – Dec 2014)*
-- [Team Bingo 2](https://www.youtube.com/watch?v=pJGY7dseEO0) *(01 Mar 2014)*
+- [Team Bingo 2](https://docs.google.com/spreadsheets/d/156_l9Y0oiXnb84QGR6_JIMuC0ZLiTaIlGeOoQuvgfy8/pub?single=true&gid=1&output=html) *(01 Mar 2014)*
 - [Any% Relay 1](https://www.youtube.com/watch?v=U85eBdbSXKs) *(01 Feb 2014)*
 - NicoNico Task Challenges: [Season 2](https://www.speedrun.com/sms/guide/1zc9v) *(Sep 2013 – Dec 2013)*
 - [Team Bingo 1](https://www.youtube.com/watch?v=oEUV6hL8q80) *(29 Sep 2013)*
