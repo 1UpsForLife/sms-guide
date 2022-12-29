@@ -4,9 +4,12 @@ title: WR History
 nav_order: 12
 ---
   
+## World Record History
+Original lists created by **[Nkitten](https://www.speedrun.com/user/Nkitten)**, converted/maintained by **[1UpsForLife](https://www.speedrun.com/user/1UpsForLife)** with help from many others.  
++ [Any%](/#any)
++ [120 Shines](/#120-shines) 
+
 ## Any% World Record History  
-Original list created by **[Nkitten](https://www.speedrun.com/user/Nkitten)**, converted/maintained by **[1UpsForLife](https://www.speedrun.com/user/1UpsForLife)** with help from many others.  
-  
 ### 2011  
 **[1:34:50](https://www.youtube.com/watch?v=TUsFLq4Rqkk)** by トーボウ on October 10, 2011  
 **[1:33:01](https://www.youtube.com/watch?v=bEDeCtvRmQ4)** by sincos on December 24, 2011(?)  
@@ -106,8 +109,6 @@ Times above on Reset Timing, Times below on File Select timing
   
   
 ## 120 Shines World Record History  
-Original list created by **[Nkitten](https://www.speedrun.com/user/Nkitten)**, converted/maintained by **[1UpsForLife](https://www.speedrun.com/user/1UpsForLife)** with help from many others.  
-  
 ### 2007	  
 5:11:26 by Doodan on August 25, 2007  
   
