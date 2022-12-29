@@ -8,8 +8,8 @@ nav_exclude: true
   
 ## World Record History
 Original lists created by **[Nkitten](https://www.speedrun.com/user/Nkitten)**, converted/maintained by **[1UpsForLife](https://www.speedrun.com/user/1UpsForLife)** with help from many others.  
-+ [Any%](/#any)
-+ [120 Shines](/#120-shines) 
++ [Any%](/sms-guide/community/wrhistory/#any)
++ [120 Shines](/sms-guide/community/wrhistory/#120-shines) 
 
 ## Any% World Record History  
 ### 2011  
