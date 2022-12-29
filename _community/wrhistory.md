@@ -157,9 +157,9 @@ Times above on Reset Timing, Times below on File Select timing
 **[3:21:15](https://www.youtube.com/watch?v=8OXWQItC18I)** by ヤマた on November 3, 2014  
 **[3:20:22](https://www.youtube.com/watch?v=GukXEzDwmYE)** by AverageTrey on November 20, 2014  
 **[3:19:17](https://www.youtube.com/watch?v=fXF1YeZWWSQ)** by stelzig on November 23, 2014  
-\-----------------------------------------  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 Times above on Reset timing, times below on File Select timing  
-\-----------------------------------------  
+\-----------------------------------------------\-  
 **[3:17:40](https://www.youtube.com/watch?v=ROG0CwY0s3s)** by AverageTrey on December 26, 2014  
   
 ### 2015	  
