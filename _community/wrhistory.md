@@ -51,9 +51,9 @@ Original lists created by **[Nkitten](https://www.speedrun.com/user/Nkitten)**, 
 1:18:50 by ヤマた on February 7, 2015  
 1:18:46 by トーボウ on February 8, 2015  
 1:18:35 by トーボウ on February 23, 2015  
-_________________________________________________  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 Times above on Reset Timing, Times below on File Select timing  
-_________________________________________________  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 **[1:18:29](https://www.youtube.com/watch?v=udvV01miBjc)** by Kaffelon on April 2, 2015  
 **[1:18:22](https://www.youtube.com/watch?v=x5SyyyrSQCI)** by AverageTrey on May 28, 2015  
 **[1:18:17](https://www.youtube.com/watch?v=-Fm-p6H0_K8)** by Kaffelon on June 12, 2015  
@@ -157,9 +157,9 @@ _________________________________________________
 **[3:21:15](https://www.youtube.com/watch?v=8OXWQItC18I)** by ヤマた on November 3, 2014  
 **[3:20:22](https://www.youtube.com/watch?v=GukXEzDwmYE)** by AverageTrey on November 20, 2014  
 **[3:19:17](https://www.youtube.com/watch?v=fXF1YeZWWSQ)** by stelzig on November 23, 2014  
-_________________________________________________  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 Times above on Reset Timing, Times below on File Select timing  
-_________________________________________________  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 **[3:17:40](https://www.youtube.com/watch?v=ROG0CwY0s3s)** by AverageTrey on December 26, 2014  
   
 ### 2015	  
