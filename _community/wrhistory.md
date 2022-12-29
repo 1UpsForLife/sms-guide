@@ -1,7 +1,9 @@
 ---
 layout: default
 title: WR History
-nav_order: 12
+permalink: /community/wrhistory/
+parent: Leaderboards
+nav_exclude: true
 ---
   
 ## World Record History
