@@ -18,8 +18,8 @@ Any%/120-Shine top 5 per country/USA-state.
 
 ## WR History
 ### Up-to-date text documents  
-**[Any%](/sms-guide/community/wrhistory/#any)**  
-**[120 Shines](/sms-guide/community/wrhistory/#120-shines)**  
+**[Any%](/sms-guide/community/wrhistory/#any-world-record-history)**  
+**[120 Shines](/sms-guide/community/wrhistory/#120-shines-world-record-history)**  
 ### Documentary Videos
 **[Any%](https://youtu.be/oudZMniib08)** (AverageTrey, Sept 2017)  
 **[120 Shines](hhttps://youtu.be/oHg4oTMu5Yc)** (AverageTrey, Sept 2018)  
